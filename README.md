@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Flutter, Laravel(REST API)**
 
-- 📫 How to reach me **sidahmed.belkad0@gmail.com**
+- 📫 How to reach me **sidahmed.belkadi0@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
