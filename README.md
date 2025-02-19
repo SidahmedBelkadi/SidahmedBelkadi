@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sidahmedbelkadi&label=Profile%20views&color=0e75b6&style=flat" alt="sidahmedbelkadi" /> </p>
 
-- 💬 Ask me about **Flutter, Laravel(REST API)**
+- 💬 Ask me about **Flutter, Android, Dart, Kotlin, Firebase, REST API's, CI/CD, SQL, Linux**
 
 - 📫 How to reach me **sidahmed.belkadi0@gmail.com**
 
